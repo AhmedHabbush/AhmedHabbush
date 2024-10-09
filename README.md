@@ -16,7 +16,7 @@ I'm a passionate Computer Engineer with a strong background in **web design** an
 - Improving my skills in **modern JavaScript frameworks** and **backend development** with a focus on **scalability** and **performance optimization**.
 
 ### 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com) 
+- [LinkedIn](https://www.linkedin.com/in/ahabbush) 
 - [Email](mailto:ahabbush.job@gmail.com)
 
 ---
